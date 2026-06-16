@@ -13,6 +13,7 @@ git log = mostra o histórico dos commits
 git diff = mostra alterações feitas antes do commit
 git remote -v = mostra repositórios remotos configurados
 git branch = mostra em qual branch você está
+git keep = arquivo para adicionar a alguma pasta vazia que eu queira enviar para o main
 
 git status
 git add .
