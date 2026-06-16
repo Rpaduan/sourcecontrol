@@ -14,6 +14,8 @@ git diff = mostra alterações feitas antes do commit
 git remote -v = mostra repositórios remotos configurados
 git branch = mostra em qual branch você está
 git keep = arquivo para adicionar a alguma pasta vazia que eu queira enviar para o main
+git checkout -b feature/login = cria uma cópia da branch atual para você desenvolver sem mexer na principal
+git merge feature/login = raz as alterações dessa branch para a branch em que você está
 
 git status
 git add .
