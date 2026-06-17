@@ -41,3 +41,4 @@ git rm -r --cached .
 git add .
 git commit -m "Atualiza .gitignore"
 git push
+
